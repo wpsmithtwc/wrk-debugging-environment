@@ -1,0 +1,22 @@
+FROM node:6.9.1
+ENV HOME=/home/app/
+RUN mkdir $HOME && chmod -R 0777 $HOME
+WORKDIR $HOME
+
+COPY scripts/docker/run.sh $HOME
+COPY scripts/docker/index.js $HOME
+
+COPY .npmrc $HOME
+
+COPY .deps.json $HOME/package.json
+RUN npm install --production
+
+COPY package.json $HOME
+COPY .babelrc $HOME
+COPY newrelic.js $HOME
+
+ADD server $HOME/server
+
+RUN chmod +x run.sh
+EXPOSE 3000
+CMD ["./run.sh"]

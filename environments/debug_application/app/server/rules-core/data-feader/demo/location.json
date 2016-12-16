@@ -1,0 +1,132 @@
+{
+  "locType": 1,
+  "locId": "USMA0046",
+  "procTm": "20160905123714",
+  "cityNm": "BOSTON",
+  "stCd": "MA",
+  "prsntNm": "Boston, MA",
+  "cntryCd": "US",
+  "coopId": "72509060",
+  "lat": 42.36,
+  "long": -71.06,
+  "obsStn": "KBOS",
+  "secObsStn": "KBED",
+  "tertObsStn": "KOWD",
+  "gmtDiff": -5,
+  "regSat": "ne",
+  "cntyId": "MAC025",
+  "cntyNm": "SUFFOLK",
+  "zoneId": "MAZ015",
+  "zoneNm": "Suffolk",
+  "cntyFips": "25025",
+  "active": 1,
+  "dySTInd": "Y",
+  "dmaCd": 506,
+  "zipCd": "02128",
+  "elev": 21,
+  "cliStn": "190770",
+  "tmZnNm": "Eastern Standard Time",
+  "tmZnAbbr": "EST",
+  "dySTAct": "N",
+  "clsRad": "BOS",
+  "metRad": "BOS",
+  "ultRad": "BOS",
+  "ssRad": "ne",
+  "lsRad": "ne",
+  "siteId": "WW",
+  "idxId": "KBOS",
+  "primTecci": "T72509060",
+  "arptId": "BOS",
+  "mrnZoneId": "ANZ230",
+  "pllnId": "BOS",
+  "skiId": "1398",
+  "tideId": "E8443970",
+  "epaId": "ma001",
+  "_arptNear": [
+    "BOS",
+    "MHT",
+    "PVD"
+  ],
+  "_arptNearDist": [
+    {
+      "key": "BOS:9:US",
+      "dist": 3
+    },
+    {
+      "key": "MHT:9:US",
+      "dist": 38
+    },
+    {
+      "key": "PVD:9:US",
+      "dist": 41
+    }
+  ],
+  "_skiNear": [
+    {
+      "key": "1398:11:US",
+      "tLifts": 4,
+      "dist": 6
+    },
+    {
+      "key": "74:11:US",
+      "tLifts": 10,
+      "dist": 7
+    },
+    {
+      "key": "293:11:US",
+      "tLifts": 10,
+      "dist": 24
+    },
+    {
+      "key": "165:11:US",
+      "tLifts": 7,
+      "dist": 29
+    },
+    {
+      "key": "200:11:US",
+      "tLifts": 6,
+      "dist": 29
+    },
+    {
+      "key": "119:11:US",
+      "tLifts": 7,
+      "dist": 33
+    },
+    {
+      "key": "27:11:US",
+      "tLifts": 11,
+      "dist": 35
+    },
+    {
+      "key": "357:11:US",
+      "tLifts": 5,
+      "dist": 36
+    },
+    {
+      "key": "54:11:US",
+      "tLifts": 4,
+      "dist": 36
+    },
+    {
+      "key": "2805:11:US",
+      "tLifts": 4,
+      "dist": 37
+    }
+  ],
+  "_gprId": "NAM",
+  "_dstDates": {
+    "startDate": "2017-03-12T07:00:00.000Z",
+    "endDate": "2017-11-05T06:00:00.000Z"
+  },
+  "wmId": "BOS",
+  "offShoreId": "ANZ270",
+  "PollenIds": {
+    "tree": "KBOS",
+    "grass": "KBOS",
+    "ragweed": "KBOS"
+  },
+  "isBoatBeach": true,
+  "ianaTmZn": "America/New_York",
+  "stNm": "Massachusetts",
+  "_country": "United States Of America"
+}

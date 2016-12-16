@@ -1,0 +1,32 @@
+[
+  {
+    "strikeTime": "2016-11-14T21:24:45.569-06:00",
+    "latitude": 36.4917394,
+    "longitude": -89.9447774,
+    "distance": 4.36
+  },
+  {
+    "strikeTime": "2016-11-14T21:24:45.700-06:00",
+    "latitude": 36.491924,
+    "longitude": -89.9447068,
+    "distance": 4.37
+  },
+  {
+    "strikeTime": "2016-11-14T21:24:45.659-06:00",
+    "latitude": 36.4922283,
+    "longitude": -89.9447039,
+    "distance": 4.39
+  },
+  {
+    "strikeTime": "2016-11-14T21:24:45.337-06:00",
+    "latitude": 36.484647,
+    "longitude": -89.9714861,
+    "distance": 5.04
+  },
+  {
+    "strikeTime": "2016-11-14T21:24:45.276-06:00",
+    "latitude": 36.5055297,
+    "longitude": -89.9905773,
+    "distance": 6.78
+  }
+]

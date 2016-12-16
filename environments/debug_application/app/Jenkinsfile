@@ -1,0 +1,14 @@
+
+  stage ('Build Module') {
+    sh 'npm install'
+  }
+
+
+  stage ('Unit Test') {
+    sh 'npm run test'
+  }
+
+
+  stage ('Code Quality') {
+    sh 'npm run lint:js'
+  }

@@ -1,0 +1,33 @@
+[
+  {
+    "headline": "Mountain lion in Massachusetts? State, independent experts disagree",
+    "url": "/news/boston/wcvb/video/mountain-lion-in-massachusetts-state-independent-experts-disagree",
+    "caption": "A Massachusetts woman whose horse was injured in June says DNA testing has confirmed that a mountain lion visited her property, but state experts aren't so sure.",
+    "srcSet": [
+      {
+        "src": "https://v.w-x.co/a7407a4a-c89e-4053-af3c-1053b18b1c2a_image.jpg",
+        "variant": "1024w"
+      },
+      {
+        "src": "https://dsx.weather.com//util/image/v/a7407a4a-c89e-4053-af3c-1053b18b1c2a_image.jpg?v=at&w=155&h=114&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+        "variant": "150w"
+      },
+      {
+        "src": "https://dsx.weather.com//util/image/v/a7407a4a-c89e-4053-af3c-1053b18b1c2a_image.jpg?v=at&w=320&h=180&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+        "variant": "320w"
+      },
+      {
+        "src": "https://dsx.weather.com//util/image/v/a7407a4a-c89e-4053-af3c-1053b18b1c2a_image.jpg?v=at&w=650&h=356&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+        "variant": "650w"
+      }
+    ],
+    "provider": {
+      "name": "WCVB"
+    },
+    "icon": "video",
+    "_pcollid": "news/boston/wcvb",
+    "category": {
+
+    }
+  }
+]

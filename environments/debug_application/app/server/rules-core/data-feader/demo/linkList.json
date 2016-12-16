@@ -1,0 +1,308 @@
+{
+  "id": "00aa76eb-feac-4ff2-a271-3a7d961d9a29",
+  "type": "content_media_queryset",
+  "schema_version": "1.1.12",
+  "locale": "en-US",
+  "queries": [
+    {
+      "title": "5 Dead After Tornadoes Rip Through the South",
+      "description": null,
+      "image": {
+        "title": null,
+        "variants": {
+          "0": "https://s.w-x.co/21616676-mmmain.jpg",
+          "1": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=at&w=73&h=49&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "2": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=at&w=160&h=90&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "3": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=at&w=240&h=51&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "4": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=at&w=85&h=64&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "5": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=at&w=155&h=155&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "6": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=at&w=155&h=114&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "7": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=at&w=320&h=260&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "8": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=at&w=320&h=180&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "9": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=at&w=485&h=273&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "10": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=at&w=650&h=356&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "11": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=at&w=815&h=458&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "12": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=ap&w=980&h=551&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "13": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=at&w=0&h=366&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "14": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=ap&w=220&h=0&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "15": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=at&w=532&h=532&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "16": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=at&w=1280&h=720&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "200": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=at&w=200&h=200&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "400": "https://dsx.weather.com//util/image/w/21616676-mmmain.jpg?v=at&w=400&h=400&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"
+        },
+        "type": "dsx"
+      },
+      "link": {
+        "url": "/storms/severe/video/five-dead-in-tuesday-night-southern-severe-storms",
+        "title": null,
+        "attributes": [
+
+        ]
+      },
+      "collection": {
+        "label": "Severe Weather",
+        "name": "storms/severe"
+      },
+      "playlist": {
+        "label": "Editor's Picks",
+        "name": "pl-editor-picks"
+      },
+      "attribution": null,
+      "options": {
+        "wait_flag": false,
+        "new_tab": false,
+        "nofollow": false,
+        "icon": "video"
+      },
+      "query_type": "linker"
+    },
+    {
+      "collection": null,
+      "keywords": [
+        "affiliatevideo"
+      ],
+      "dma": {
+        "enabled": true,
+        "override": false,
+        "source": "page"
+      },
+      "limit": "1",
+      "start_index": 0,
+      "type": [
+        "video"
+      ],
+      "sort_param": "sort_recent",
+      "use_teaser_title": false,
+      "show_provider": true,
+      "query_type": "cms_query"
+    },
+    {
+      "collection": null,
+      "keywords": [
+        "affiliateoverride"
+      ],
+      "dma": {
+        "enabled": true,
+        "override": false,
+        "source": "page"
+      },
+      "limit": "1",
+      "start_index": 0,
+      "type": [
+        "video"
+      ],
+      "sort_param": "sort_publishdate",
+      "use_teaser_title": false,
+      "show_provider": true,
+      "query_type": "cms_query"
+    },
+    {
+      "title": "Photos From the Ongoing Disaster in Tennessee",
+      "description": null,
+      "image": {
+        "title": null,
+        "variants": {
+          "0": "https://s.w-x.co/ap_16334660604323.jpg",
+          "1": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=at&w=73&h=49&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "2": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=at&w=160&h=90&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "3": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=at&w=240&h=51&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "4": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=at&w=85&h=64&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "5": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=at&w=155&h=155&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "6": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=at&w=155&h=114&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "7": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=at&w=320&h=260&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "8": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=at&w=320&h=180&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "9": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=at&w=485&h=273&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "10": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=at&w=650&h=356&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "11": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=at&w=815&h=458&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "12": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=ap&w=980&h=551&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "13": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=at&w=0&h=366&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "14": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=ap&w=220&h=0&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "15": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=at&w=532&h=532&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "16": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=at&w=1280&h=720&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "200": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=at&w=200&h=200&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "400": "https://dsx.weather.com//util/image/w/ap_16334660604323.jpg?v=at&w=400&h=400&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"
+        },
+        "type": "dsx"
+      },
+      "link": {
+        "url": "/news/news/tennessee-gatlinburg-fires-images",
+        "title": null,
+        "attributes": [
+
+        ]
+      },
+      "collection": {
+        "label": "News",
+        "name": "news"
+      },
+      "playlist": {
+        "label": "Editor's Picks",
+        "name": "pl-editor-picks"
+      },
+      "attribution": null,
+      "options": {
+        "wait_flag": false,
+        "new_tab": false,
+        "nofollow": false,
+        "icon": "image"
+      },
+      "query_type": "linker"
+    },
+    {
+      "title": "Big Changes to Winter Outlook",
+      "description": null,
+      "image": {
+        "title": null,
+        "variants": {
+          "0": "https://s.w-x.co/decemberavg.jpg",
+          "1": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=at&w=73&h=49&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "2": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=at&w=160&h=90&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "3": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=at&w=240&h=51&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "4": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=at&w=85&h=64&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "5": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=at&w=155&h=155&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "6": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=at&w=155&h=114&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "7": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=at&w=320&h=260&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "8": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=at&w=320&h=180&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "9": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=at&w=485&h=273&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "10": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=at&w=650&h=356&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "11": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=at&w=815&h=458&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "12": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=ap&w=980&h=551&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "13": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=at&w=0&h=366&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "14": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=ap&w=220&h=0&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "15": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=at&w=532&h=532&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "16": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=at&w=1280&h=720&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "200": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=at&w=200&h=200&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "400": "https://dsx.weather.com//util/image/w/decemberavg.jpg?v=at&w=400&h=400&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"
+        },
+        "type": "dsx"
+      },
+      "link": {
+        "url": "/news/weather/video/heres-what-to-expect-in-december",
+        "title": null,
+        "attributes": [
+
+        ]
+      },
+      "collection": {
+        "label": "Weather",
+        "name": "news/weather"
+      },
+      "playlist": {
+        "label": "Editor's Picks",
+        "name": "pl-editor-picks"
+      },
+      "attribution": null,
+      "options": {
+        "wait_flag": false,
+        "new_tab": false,
+        "nofollow": true,
+        "icon": "video"
+      },
+      "query_type": "linker"
+    },
+    {
+      "title": "Spider Enters Bee Hive ... Mistake",
+      "description": null,
+      "image": {
+        "title": null,
+        "variants": {
+          "0": "https://s.w-x.co/beespider.jpg",
+          "1": "https://dsx.weather.com//util/image/w/beespider.jpg?v=at&w=73&h=49&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "2": "https://dsx.weather.com//util/image/w/beespider.jpg?v=at&w=160&h=90&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "3": "https://dsx.weather.com//util/image/w/beespider.jpg?v=at&w=240&h=51&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "4": "https://dsx.weather.com//util/image/w/beespider.jpg?v=at&w=85&h=64&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "5": "https://dsx.weather.com//util/image/w/beespider.jpg?v=at&w=155&h=155&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "6": "https://dsx.weather.com//util/image/w/beespider.jpg?v=at&w=155&h=114&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "7": "https://dsx.weather.com//util/image/w/beespider.jpg?v=at&w=320&h=260&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "8": "https://dsx.weather.com//util/image/w/beespider.jpg?v=at&w=320&h=180&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "9": "https://dsx.weather.com//util/image/w/beespider.jpg?v=at&w=485&h=273&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "10": "https://dsx.weather.com//util/image/w/beespider.jpg?v=at&w=650&h=356&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "11": "https://dsx.weather.com//util/image/w/beespider.jpg?v=at&w=815&h=458&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "12": "https://dsx.weather.com//util/image/w/beespider.jpg?v=ap&w=980&h=551&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "13": "https://dsx.weather.com//util/image/w/beespider.jpg?v=at&w=0&h=366&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "14": "https://dsx.weather.com//util/image/w/beespider.jpg?v=ap&w=220&h=0&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "15": "https://dsx.weather.com//util/image/w/beespider.jpg?v=at&w=532&h=532&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "16": "https://dsx.weather.com//util/image/w/beespider.jpg?v=at&w=1280&h=720&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "200": "https://dsx.weather.com//util/image/w/beespider.jpg?v=at&w=200&h=200&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "400": "https://dsx.weather.com//util/image/w/beespider.jpg?v=at&w=400&h=400&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"
+        },
+        "type": "dsx"
+      },
+      "link": {
+        "url": "/science/nature/video/spider-loses-the-battle-of-the-bees",
+        "title": null,
+        "attributes": [
+
+        ]
+      },
+      "collection": {
+        "label": "Nature",
+        "name": "science/nature"
+      },
+      "playlist": {
+        "label": "Editor's Picks",
+        "name": "pl-editor-picks"
+      },
+      "attribution": null,
+      "options": {
+        "wait_flag": false,
+        "new_tab": true,
+        "nofollow": false,
+        "icon": null
+      },
+      "query_type": "linker"
+    },
+    {
+      "title": "Storm Uncovers WWII Weaponry",
+      "description": null,
+      "image": {
+        "title": null,
+        "variants": {
+          "0": "https://s.w-x.co/military_0.jpg",
+          "1": "https://dsx.weather.com//util/image/w/military_0.jpg?v=at&w=73&h=49&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "2": "https://dsx.weather.com//util/image/w/military_0.jpg?v=at&w=160&h=90&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "3": "https://dsx.weather.com//util/image/w/military_0.jpg?v=at&w=240&h=51&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "4": "https://dsx.weather.com//util/image/w/military_0.jpg?v=at&w=85&h=64&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "5": "https://dsx.weather.com//util/image/w/military_0.jpg?v=at&w=155&h=155&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "6": "https://dsx.weather.com//util/image/w/military_0.jpg?v=at&w=155&h=114&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "7": "https://dsx.weather.com//util/image/w/military_0.jpg?v=at&w=320&h=260&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "8": "https://dsx.weather.com//util/image/w/military_0.jpg?v=at&w=320&h=180&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "9": "https://dsx.weather.com//util/image/w/military_0.jpg?v=at&w=485&h=273&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "10": "https://dsx.weather.com//util/image/w/military_0.jpg?v=at&w=650&h=356&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "11": "https://dsx.weather.com//util/image/w/military_0.jpg?v=at&w=815&h=458&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "12": "https://dsx.weather.com//util/image/w/military_0.jpg?v=ap&w=980&h=551&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "13": "https://dsx.weather.com//util/image/w/military_0.jpg?v=at&w=0&h=366&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "14": "https://dsx.weather.com//util/image/w/military_0.jpg?v=ap&w=220&h=0&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "15": "https://dsx.weather.com//util/image/w/military_0.jpg?v=at&w=532&h=532&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "16": "https://dsx.weather.com//util/image/w/military_0.jpg?v=at&w=1280&h=720&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "200": "https://dsx.weather.com//util/image/w/military_0.jpg?v=at&w=200&h=200&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0",
+          "400": "https://dsx.weather.com//util/image/w/military_0.jpg?v=at&w=400&h=400&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"
+        },
+        "type": "dsx"
+      },
+      "link": {
+        "url": "/news/weather/video/wwii-guns-revealed-thanks-to-hurricane-matthew",
+        "title": null,
+        "attributes": [
+
+        ]
+      },
+      "collection": {
+        "label": "Weather",
+        "name": "news/weather"
+      },
+      "playlist": {
+        "label": "Editor's Picks",
+        "name": "pl-editor-picks"
+      },
+      "attribution": null,
+      "options": {
+        "wait_flag": false,
+        "new_tab": false,
+        "nofollow": false,
+        "icon": "video"
+      },
+      "query_type": "linker"
+    }
+  ]
+}

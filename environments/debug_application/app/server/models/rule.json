@@ -1,0 +1,21 @@
+{
+  "name": "rule",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {},
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {
+    "evaluateRules": {
+      "isStatic": true,
+      "accepts": [],
+      "returns": [],
+      "description": "",
+      "http": []
+    }
+  }
+}

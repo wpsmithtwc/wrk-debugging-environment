@@ -25,6 +25,9 @@ RUN git clone https://github.com/wg/wrk.git &&\
 
 WORKDIR /
 
+ADD scripts/debug.lua /scripts/debug.lua
+ADD data/requests.json /data/requests.json
+
 # Cleanup
 RUN apt-get clean
 RUN rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*

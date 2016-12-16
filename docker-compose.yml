@@ -1,16 +1,13 @@
-wrk:
+wrk2:
   build: environments/wrk
 
-  volumes:
-   - environments/wrk/scripts:/scripts
-
   links:
-   - application
+   - twcrulesrunner
 
   hostname: wrk
   domainname: wrk.local
 
-application:
+twcrulesrunner:
   build: environments/debug_application
 
   hostname: app

@@ -1,0 +1,5 @@
+{
+  "loopback-component-explorer": {
+    "mountPath": "/twc-rules-runner/explorer"
+  }
+}

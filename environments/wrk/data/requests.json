@@ -1,0 +1,202 @@
+[
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=50.08,19.89&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=50.79,19.54&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=47.98,7.80&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=-27.37,153.08&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=49.04,2.63&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=51.77,15.03&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=39.43,-8.19&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=41.64,-88.44&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=59.32,18.21&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=49.54,5.79&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=52.65,13.48&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=44.51,8.91&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=-8.94,13.25&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=55.98,92.92&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=52.22,5.97&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=37.99,23.62&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=50.26,127.53&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=51.31,-0.21&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=49.36,3.35&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=48.99,17.40&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=31.50,118.44&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=37.95,40.49&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=-32.22,26.58&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=60.44,5.21&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=55.24,61.38&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=53.01,6.05&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=48.61,9.34&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=57.76,24.88&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=51.05,-2.73&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=37.73,30.29&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=54.66,86.19&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=46.15,2.96&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=46.24,9.36&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=46.77,15.54&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=-6.18,35.74&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=51.54,-2.29&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=38.72,-8.96&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=48.32,11.74&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=21.46,39.85&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=48.83,8.57&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=51.09,11.32&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=44.78,10.30&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=49.55,3.46&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=52.25,6.71&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=40.23,15.27&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=45.97,4.71&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=51.83,-2.31&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=52.46,17.18&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=54.09,13.38&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  },
+  {
+    "path": "/twc-rules-runner/api/rules/evaluate?locId=53.42,-2.98&locale=en-US&units=e&apikey=c1ea9f47f6a88b9acb43aba7faf38295&priority=",
+    "method": "GET"
+  }
+]

@@ -1,18 +1,61 @@
 {
-  "name": "debugging_application",
-  "version": "1.0.0",
-  "description": "Debuggig HTTP requests",
-  "private": true,
-  "main": "index.js",
+  "name": "twc-rules-runner",
+  "version": "0.1.9",
+  "main": "server/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "lint": "npm run lint:js",
+    "lint:js": "eslint ./server",
+    "start": "node .",
+    "test": "mocha",
+    "build:prod": "echo \"build:prod\"",
+    "build:urls": "echo \"build:urls\"",
+    "deps": "node -e \"require('fs').writeFileSync('.deps.json',JSON.stringify({dependencies:require('./package.json').dependencies}))\"",
+    "postinstall": "npm run deps"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "express": "^4.12.3",
-    "cookie-parser": "^1.3.4"
+    "@twc/dal": "^0.66.0",
+    "babel": "^6.5.2",
+    "babel-core": "^6.18.2",
+    "babel-polyfill": "^6.16.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "babel-register": "^6.18.0",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "chai-spies": "^0.7.1",
+    "compression": "^1.0.3",
+    "cors": "^2.5.2",
+    "debug": "^2.3.3",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.7.1",
+    "etag": "^1.7.0",
+    "express-ping": "^1.2.0",
+    "helmet": "^1.3.0",
+    "isomorphic-fetch": "^2.2.1",
+    "lodash": "^4.13.1",
+    "loopback": "^2.22.0",
+    "loopback-boot": "^2.6.5",
+    "loopback-component-explorer": "^2.4.0",
+    "loopback-datasource-juggler": "^2.39.0",
+    "mocha": "^3.1.2",
+    "newrelic": "^1.34.0",
+    "strong-error-handler": "^1.0.1"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "eslint": "^3.0.0",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-config-loopback": "^4.0.0",
+    "nsp": "^2.1.0"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "license": "UNLICENSED",
+  "description": "twc-rules-runner",
+  "pre-commit": [
+    "lint"
+  ]
 }
